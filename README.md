@@ -1,7 +1,7 @@
 ## Hi, I am Naveen  👋
 
 - 🔭 I’m currently working on sharpening skills for full stack development<br/>
-- 🌱 I’m currently learning tailwind css<br/>
+- 🌱 I’m currently learning building a gym managent app<br/>
 - 👯 I’m looking to collaborate on backend projects<br/>
 
 
